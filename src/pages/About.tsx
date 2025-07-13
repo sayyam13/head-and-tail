@@ -1,5 +1,4 @@
 import React from 'react';
-import { Code, Users, Target, Zap } from 'lucide-react';
 
 const About: React.FC = () => {
   return (
